@@ -12,6 +12,6 @@ public class Main {
 
 	 Cuadrado cuadrado= new Cuadrado(25);
 	 System.out.println(cuadrado);
-	 
+
     }
 }
